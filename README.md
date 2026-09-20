@@ -92,8 +92,8 @@ Notable PRs:
 <img src="https://img.shields.io/badge/15%2B%20Merged%20PRs-2ea44f?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Plugins-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Integrations-orange?style=flat-square"/> <img src="https://img.shields.io/badge/OAuth-orange?style=flat-square"/> <img src="https://img.shields.io/badge/API-orange?style=flat-square"/>
 
 Notable PRs:
-- [#492](https://github.com/corsairdev/corsair/pull/492) — Built a complete BetterContact integration plugin with webhooks, contact management, and token refresh.
-- [#489](https://github.com/corsairdev/corsair/pull/489) — Developed end-to-end 2Chat integration with contact sync, usage tracking, and webhooks.
+- [#1099](https://github.com/corsairdev/corsair/pull/1099) — Built a complete BetterContact integration plugin with webhooks, contact management, and token refresh.
+- [#745](https://github.com/corsairdev/corsair/pull/745) — Developed end-to-end 2Chat integration with contact sync, usage tracking, and webhooks.
 
 ### <img src="https://github.com/better-auth.png" width="24" height="24" style="border-radius:4px; vertical-align:middle;"/> [better-auth/better-auth](https://github.com/better-auth/better-auth)
 
