@@ -72,42 +72,59 @@ A Full Stack & GenAI Developer passionate about designing scalable backends, Ret
 ## 🌱 Open Source
 
 <div align="center">
-<img src="https://img.shields.io/badge/37%2B%20Merged%20Pull%20Requests-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="37+ Merged PRs"/>
+
+<a href="https://github.com/pulls?q=is%3Apr+author%3Aakshatmalik-bruh+is%3Amerged+archived%3Afalse+sort%3Aupdated-desc">
+  <img src="https://img.shields.io/badge/83%2B%20Merged%20Pull%20Requests-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="83+ Merged PRs"/>
+</a>
+
+<br/><br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="135">
+      <a href="https://github.com/repowise-dev/repowise/pulls?q=is%3Apr+author%3Aakshatmalik-bruh+is%3Amerged">
+        <img src="https://github.com/repowise-dev.png" width="48" height="48" style="border-radius:10px;" alt="Repowise"/><br/>
+        <sub><b>repowise</b></sub><br/>
+        <img src="https://img.shields.io/badge/25%2B%20Merged-2ea44f?style=flat-square" alt="25+ Merged"/>
+      </a>
+    </td>
+    <td align="center" width="135">
+      <a href="https://github.com/pulls?q=is%3Apr+author%3Aakshatmalik-bruh+org%3Akestra-io+is%3Amerged">
+        <img src="https://github.com/kestra-io.png" width="48" height="48" style="border-radius:10px;" alt="Kestra"/><br/>
+        <sub><b>kestra-io</b></sub><br/>
+        <img src="https://img.shields.io/badge/25%2B%20Merged-2ea44f?style=flat-square" alt="25+ Merged"/>
+      </a>
+    </td>
+    <td align="center" width="135">
+      <a href="https://github.com/corsairdev/corsair/pulls?q=is%3Apr+author%3Aakshatmalik-bruh+is%3Amerged">
+        <img src="https://github.com/corsairdev.png" width="48" height="48" style="border-radius:10px;" alt="Corsair"/><br/>
+        <sub><b>corsair</b></sub><br/>
+        <img src="https://img.shields.io/badge/10%2B%20Merged-2ea44f?style=flat-square" alt="10+ Merged"/>
+      </a>
+    </td>
+    <td align="center" width="135">
+      <a href="https://github.com/tabloy/keygate/pulls?q=is%3Apr+author%3Aakshatmalik-bruh+is%3Amerged">
+        <img src="https://github.com/tabloy.png" width="48" height="48" style="border-radius:10px;" alt="Keygate"/><br/>
+        <sub><b>keygate</b></sub><br/>
+        <img src="https://img.shields.io/badge/5%2B%20Merged-2ea44f?style=flat-square" alt="5+ Merged"/>
+      </a>
+    </td>
+    <td align="center" width="135">
+      <a href="https://github.com/better-auth/better-auth/pulls?q=is%3Apr+author%3Aakshatmalik-bruh+is%3Amerged">
+        <img src="https://github.com/better-auth.png" width="48" height="48" style="border-radius:10px;" alt="Better Auth"/><br/>
+        <sub><b>better-auth</b></sub><br/>
+        <img src="https://img.shields.io/badge/1%2B%20Merged-2ea44f?style=flat-square" alt="1+ Merged"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
-
-### <img src="https://github.com/repowise-dev.png" width="24" height="24" style="border-radius:4px; vertical-align:middle;"/> [repowise-dev/repowise](https://github.com/repowise-dev/repowise)
-
-<img src="https://img.shields.io/badge/25%2B%20Merged%20PRs-2ea44f?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Server-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Pipelines-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Compilers-blue?style=flat-square"/> <img src="https://img.shields.io/badge/AST-blue?style=flat-square"/>
-
-Notable PRs:
-- [#1859](https://github.com/repowise-dev/repowise/pull/1859) — Scoped directory tree walk-budget counters to fixture paths to prevent premature traversal exhaustion on large repos.
-- [#1562](https://github.com/repowise-dev/repowise/pull/1562) — Corrected standalone build output path resolution in containerized deployments.
-- [#1472](https://github.com/repowise-dev/repowise/pull/1472) — Added AST detection for `@deprecated`/`Obsolete` annotations across TypeScript, Java, and C# pipelines.
-- [#1445](https://github.com/repowise-dev/repowise/pull/1445) — Enforced completeness scope gates for AI answers on truncated/partial code symbol bodies.
-- [#1434](https://github.com/repowise-dev/repowise/pull/1434) — Added CLI indicators for hidden low-confidence findings in static analysis output.
-- [#1408](https://github.com/repowise-dev/repowise/pull/1408) — Hardened webhook receiver security with fail-closed auth and per-request secret rotation.
-
-### <img src="https://github.com/corsairdev.png" width="24" height="24" style="border-radius:4px; vertical-align:middle;"/> [corsairdev/corsair](https://github.com/corsairdev/corsair)
-
-<img src="https://img.shields.io/badge/15%2B%20Merged%20PRs-2ea44f?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Plugins-orange?style=flat-square"/> <img src="https://img.shields.io/badge/Integrations-orange?style=flat-square"/> <img src="https://img.shields.io/badge/OAuth-orange?style=flat-square"/> <img src="https://img.shields.io/badge/API-orange?style=flat-square"/>
-
-Notable PRs:
-- [#1099](https://github.com/corsairdev/corsair/pull/1099) — Built a complete BetterContact integration plugin with webhooks, contact management, and token refresh.
-- [#745](https://github.com/corsairdev/corsair/pull/745) — Developed end-to-end 2Chat integration with contact sync, usage tracking, and webhooks.
-
-### <img src="https://github.com/better-auth.png" width="24" height="24" style="border-radius:4px; vertical-align:middle;"/> [better-auth/better-auth](https://github.com/better-auth/better-auth)
-
-<img src="https://img.shields.io/badge/1%2B%20Merged%20PR-2ea44f?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Authentication-purple?style=flat-square"/> <img src="https://img.shields.io/badge/TypeScript-purple?style=flat-square"/> <img src="https://img.shields.io/badge/Cookies-purple?style=flat-square"/>
-
-Comprehensive TypeScript authentication library for Web & Next.js
-
-- [#10442](https://github.com/better-auth/better-auth/pull/10442) — Tightened `CookieAttributes` index signature typing for improved session cookie type-safety.
 
 ---
 
 <div align="center">
 
 <a href="http://akshatmalik.is-a.dev/resume.pdf"><img src="https://img.shields.io/badge/Full%20Resume%20%2F%20CV-4B0082?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
-
 
 </div>
